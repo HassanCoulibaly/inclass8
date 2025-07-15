@@ -1,0 +1,2 @@
+C:/Users/hsfco/Desktop/MAD/DB DART/dbdart/android/app/.cxx/RelWithDebInfo/3t1v524s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/hsfco/Desktop/MAD/DB DART/dbdart/android/app/.cxx/RelWithDebInfo/3t1v524s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
